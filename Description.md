@@ -1,1 +1,0 @@
-Wave Oracle is a Soroban smart contract that verifies GitHub pull request merges on-chain. Off-chain reporters (GitHub Apps) submit confirmations; once a configurable M-of-N threshold is reached, the event is finalized. Prevents fake claims, replay attacks, and double-voting without trusting any single source.
